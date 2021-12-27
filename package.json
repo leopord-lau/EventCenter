@@ -1,0 +1,27 @@
+{
+  "name": "eventcenter",
+  "version": "1.0.0",
+  "description": "a simple event emit library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leopord-lau/EventCenter.git"
+  },
+  "keywords": [
+    "EventCenter",
+    "Events",
+    "addListener",
+    "on",
+    "once",
+    "emit"
+  ],
+  "author": "leo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leopord-lau/EventCenter/issues"
+  },
+  "homepage": "https://github.com/leopord-lau/EventCenter#readme"
+}
